@@ -1,0 +1,19 @@
+.product{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    border: 1px solid snow;
+    
+}
+.btn{
+    border: none;
+    background-color: snow;
+    padding: 0.6rem;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 47%;
+}
+.btn:hover{
+    background-color: lightgreen;
+}
